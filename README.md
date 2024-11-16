@@ -34,5 +34,4 @@ Hey there! I'm **Shreyash Kumar Dheemar**, currently exploring **C++** and **Web
 </p>
 
 ---
-
-[![Visitors](https://visitcount.itsvg.in/api?id=TechShreyash&icon=0&color=11)](https://visitcount.itsvg.in)
+[![visitors](https://visitcount.itsvg.in/api?id=iotserver24&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
